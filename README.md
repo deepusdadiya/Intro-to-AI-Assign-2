@@ -1,5 +1,6 @@
-# Intro-to-AI-Assign-2
-# HW2—Game Engine
+### Intro-to-AI-Assignment-2
+
+### Game Engine
 
 
 ## Introduction: Konane
